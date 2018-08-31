@@ -1,0 +1,3 @@
+# templateA
+
+Describe templateA here.

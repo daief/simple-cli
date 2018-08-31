@@ -1,0 +1,14 @@
+{
+  "name": "simple-cli",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.17.1",
+    "copy-template-dir": "^1.4.0"
+  },
+  "bin": {
+    "simple-cli": "./index.js"
+  }
+}
